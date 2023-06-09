@@ -1,0 +1,11 @@
+payload:
+  - 'clash.razord.top'
+  - 'yacd.haishan.me'
+  - '+.shadowsocks.tech'
+  - '+.adonis-lau.bid'
+  - '+.apache.cn.eu.org'
+  - '+.edu.hr.eu.org'
+  - '+.lau.cn.eu.org'
+  - '+.server.cn.eu.org'
+  - '+.mvn.cdp.market'
+  - '+.tailscale.com'
