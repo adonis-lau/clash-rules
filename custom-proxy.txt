@@ -1,2 +1,3 @@
 payload:
-  - '+.spotify.com'
+  - '+.larksuite.com'
+  - '+.larksuitecdn.com'
