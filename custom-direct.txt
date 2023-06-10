@@ -9,3 +9,5 @@ payload:
   - '+.server.cn.eu.org'
   - '+.mvn.cdp.market'
   - '+.tailscale.com'
+  - '+.1password.com'
+  - '+.epicgames.com'
