@@ -1,3 +1,5 @@
 payload:
   - '+.larksuite.com'
   - '+.larksuitecdn.com'
+  - '+.xn--ngstr-lra8j.com'
+  - '+.googleapis.cn'
