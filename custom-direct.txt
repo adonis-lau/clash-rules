@@ -1,6 +1,7 @@
 payload:
   - 'clash.razord.top'
   - 'yacd.haishan.me'
+  - 'yacd.metacubex.one'
   - '+.shadowsocks.tech'
   - '+.adonis-lau.bid'
   - '+.mvn.cdp.market'
