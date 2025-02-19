@@ -4,3 +4,4 @@ payload:
   - '+.xn--ngstr-lra8j.com'
   - '+.googleapis.cn'
   - '+.eu.org'
+  - '+.canva.com'
