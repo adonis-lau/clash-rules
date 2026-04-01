@@ -25,3 +25,4 @@ payload:
   - 'DOMAIN-SUFFIX,paas.com'
   - '+.siliconflow.cn'
   - 'DOMAIN-SUFFIX,siliconflow.cn'
+  - '+.aliyun.com'
