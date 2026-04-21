@@ -26,4 +26,3 @@ payload:
   - '+.siliconflow.cn'
   - 'DOMAIN-SUFFIX,siliconflow.cn'
   - '+.aliyun.com'
-  - '+.linux.do'
