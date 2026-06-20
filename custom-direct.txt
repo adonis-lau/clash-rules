@@ -29,3 +29,5 @@ payload:
   - '+.bilibili.com'
   - '+.muyuan.do'
   - '+.gyapi.zxiaoruan.cn'
+  - '+.bilivideo.cn'
+  - '+.mcdn.bilivideo.cn'
