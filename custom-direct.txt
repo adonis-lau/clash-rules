@@ -34,3 +34,4 @@ payload:
   - '+.mcdn.bilivideo.cn'
   - '+.mcdn.bilivideo.com'
   - '+.biliapi.net'
+  - '+.nip.io'
