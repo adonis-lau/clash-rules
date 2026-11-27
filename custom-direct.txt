@@ -35,3 +35,5 @@ payload:
   - '+.mcdn.bilivideo.com'
   - '+.biliapi.net'
   - '+.nip.io'
+  - '+.ghproxy.net'
+  - '+.cnb.cool'
